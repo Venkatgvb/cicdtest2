@@ -1,7 +1,7 @@
 <mvc:View controllerName="sap.btp.helloworldui1.controller.View1"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="digamberji">
+    <Page id="page" title="SAP BTP">
         <content />
     </Page>
 </mvc:View>
